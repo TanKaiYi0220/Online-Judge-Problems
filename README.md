@@ -15,8 +15,8 @@
 # 10000-10099 <a id='10000-10099'></a>
 * [10008-What's Cryptanalysis](src/10000-10099/10008-What's%20Cryptanalysis.cpp)
 # Table of Stars
-## [One Star](#One-Star)
-## [Two Star](#Two-Star)
+* [One Star](#One-Star)
+* [Two Star](#Two-Star)
 ## One Star <a id='One-Star'></a>
 * [100-The 3n+1 Problem](src/100-199/100-The%203n+1%20Problem.cpp)
 * [105-The Skyline Problem](src/100-199/105-The%20Skyline%20Problem.cpp)
