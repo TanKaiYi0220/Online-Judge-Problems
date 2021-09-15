@@ -14,6 +14,7 @@
 # 200-299 <a id='200-299'></a>
 # 10000-10099 <a id='10000-10099'></a>
 * [10008-What's Cryptanalysis](src/10000-10099/10008-What's%20Cryptanalysis.cpp)
+* [10018-Reverse and Add](src/10000-10099/10018-Reverse%20and%20Add.cpp)
 # Table of Stars
 * [One Star](#One-Star)
 * [Two Star](#Two-Star)
@@ -22,4 +23,5 @@
 * [105-The Skyline Problem](src/100-199/105-The%20Skyline%20Problem.cpp)
 * [108-Maximum Sum](src/100-199/108-Maximum%20Sum.cpp)
 * [10008-What's Cryptanalysis](src/10000-10099/10008-What's%20Cryptanalysis.cpp)
+* [10018-Reverse and Add](src/10000-10099/10018-Reverse%20and%20Add.cpp)
 ## Two Star <a id='Two-Star'></a>
