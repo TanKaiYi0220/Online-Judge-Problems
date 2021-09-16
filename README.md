@@ -17,6 +17,7 @@
 * [10018-Reverse and Add](src/10000-10099/10018-Reverse%20and%20Add.cpp)
 * [10019-Funny Encryption Method](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
 * [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
+* [10038-Jolly Jumpers](src/10000-10099/10038-Jolly%20Jumpers.cpp)
 # Table of Stars
 * [One Star](#One-Star)
 * [Two Star](#Two-Star)
@@ -28,4 +29,5 @@
 * [10018-Reverse and Add](src/10000-10099/10018-Reverse%20and%20Add.cpp)
 * [10019-Funny Encryption Method](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
 * [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
+* [10038-Jolly Jumpers](src/10000-10099/10038-Jolly%20Jumpers.cpp)
 ## Two Star <a id='Two-Star'></a>
