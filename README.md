@@ -15,7 +15,8 @@
 # 10000-10099 <a id='10000-10099'></a>
 * [10008-What's Cryptanalysis](src/10000-10099/10008-What's%20Cryptanalysis.cpp)
 * [10018-Reverse and Add](src/10000-10099/10018-Reverse%20and%20Add.cpp)
-* [10019-Funny Encryption Method.cpp](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
+* [10019-Funny Encryption Method](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
+* [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
 # Table of Stars
 * [One Star](#One-Star)
 * [Two Star](#Two-Star)
@@ -25,5 +26,6 @@
 * [108-Maximum Sum](src/100-199/108-Maximum%20Sum.cpp)
 * [10008-What's Cryptanalysis](src/10000-10099/10008-What's%20Cryptanalysis.cpp)
 * [10018-Reverse and Add](src/10000-10099/10018-Reverse%20and%20Add.cpp)
-* [10019-Funny Encryption Method.cpp](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
+* [10019-Funny Encryption Method](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
+* [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
 ## Two Star <a id='Two-Star'></a>
