@@ -19,6 +19,7 @@
 * [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
 * [10038-Jolly Jumpers](src/10000-10099/10038-Jolly%20Jumpers.cpp)
 * [10041-Vito's family](src/10000-10099/10041-Vito's%20family.cpp)
+* [10050-Hartals](src/10000-10099/10050-Hartals.cpp)
 # Table of Stars
 * [One Star](#One-Star)
 * [Two Star](#Two-Star)
@@ -32,4 +33,5 @@
 * [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
 * [10038-Jolly Jumpers](src/10000-10099/10038-Jolly%20Jumpers.cpp)
 * [10041-Vito's family](src/10000-10099/10041-Vito's%20family.cpp)
+* [10050-Hartals](src/10000-10099/10050-Hartals.cpp)
 ## Two Star <a id='Two-Star'></a>
