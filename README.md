@@ -1,5 +1,5 @@
 # Online Judge Solution
-> Accepted solutions for [Online Judge Problems](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=0).<br>
+> Accepted solutions for [Online Judge Problems](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8).<br>
 > These solutions are may not the best solution for each task. <br>
 > I'm just sharing my own solutions or solution that I had found. <br>
 > Some of the questions have been rated in stars by their difficulty in [CPE](http://par.cse.nsysu.edu.tw/~advprog/star.php). <br>
@@ -18,6 +18,7 @@
 * [10019-Funny Encryption Method](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
 * [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
 * [10038-Jolly Jumpers](src/10000-10099/10038-Jolly%20Jumpers.cpp)
+* [10041-Vito's family](src/10000-10099/10041-Vito's%20family.cpp)
 # Table of Stars
 * [One Star](#One-Star)
 * [Two Star](#Two-Star)
@@ -30,4 +31,5 @@
 * [10019-Funny Encryption Method](src/10000-10099/10019-Funny%20Encryption%20Method.cpp)
 * [10035-Primary Arithmetic](src/10000-10099/10035-Primary%20Arithmetic.cpp)
 * [10038-Jolly Jumpers](src/10000-10099/10038-Jolly%20Jumpers.cpp)
+* [10041-Vito's family](src/10000-10099/10041-Vito's%20family.cpp)
 ## Two Star <a id='Two-Star'></a>
