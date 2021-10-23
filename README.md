@@ -1791,7 +1791,7 @@
 * 10052-Inviting Politicians
 * 10053-Envelopes
 * 10054-The Necklace
-* 10055-Hashmat the Brave Warrior
+* [10055-Hashmat the Brave Warrior](src/10000-10099/10055-Hashmat%20the%20Brave%20Warrior.cpp)
 * 10056-What is the Probability ?
 * 10057-A mid-summer night's dream.
 * 10058-Jimmi's Riddles
@@ -1838,7 +1838,7 @@
 * 10099-The Tourist Guide
 # 10100-10199 <a id='10100-10199'></a>
 * 10100-Longest Match
-* 10101-Bangla Numbers
+* [10101-Bangla Numbers](src/10100-10199/10101-Bangla%20Numbers.cpp)
 * 10102-The path in the colored field
 * 10103-Karpovich blocks
 * 10104-Euclid Problem
@@ -2160,7 +2160,7 @@
 * 10417-Gift Exchanging
 * 10418-Hyper Toy Soldiers
 * 10419-Sum-up the Primes
-* 10420-List of Conquests
+* [10420-List of Conquests](src/10400-10499/10420-List%20of%20Conquests.cpp)
 * 10421-Critical Wave
 * 10422-Knights in FEN
 * 10423-Peter Takes a Tramway
@@ -2674,7 +2674,7 @@
 * 10926-How Many Dependencies?
 * 10927-Bright Lights
 * 10928-My Dear Neighbours
-* 10929-You can say 11
+* [10929-You can say 11](src/10900-10999/10929-You%20can%20say%2011.cpp)
 * 10930-A-Sequence
 * 10931-Parity
 * 10932-Calculator
