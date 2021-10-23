@@ -1777,7 +1777,7 @@
 * [10038-Jolly Jumpers](src/10000-10099/10038-Jolly%20Jumpers.cpp)
 * 10039-Railroads
 * 10040-Ouroboros Snake
-* 10041-Vito's Family
+* [10041-Vito's Family](src/10000-10099/10041-Vito's%20Family.cpp)
 * 10042-Smith Numbers
 * 10043-Chainsaw Massacre
 * 10044-Erdos Numbers
