@@ -1744,7 +1744,7 @@
 * 10005-Packing polygons
 * 10006-Carmichael Numbers
 * 10007-Count the Trees
-* 10008-What's Cryptanalysis?
+* [10008-What's Cryptanalysis?](src/10000-10099/10008-What's%20Cryptanalysis.cpp)
 * 10009-All Roads Lead Where?
 * 10010-Where's Waldorf?
 * 10011-Where Can You Hide?
@@ -1960,7 +1960,7 @@
 * 10219-Find the ways !
 * 10220-I Love Big Numbers !
 * 10221-Satellites
-* 10222-Decode the Mad man
+* [10222-Decode the Mad man](src/10200-10299/10222-Decode%20the%20Mad%20man.cpp)
 * 10223-How many nodes ?
 * 10224-Return of the Jedi
 * 10225-Discrete Logging
