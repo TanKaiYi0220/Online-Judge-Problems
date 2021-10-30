@@ -1990,7 +1990,7 @@
 * 10249-The Grand Dinner
 * 10250-The Other Two Trees
 * 10251-Min-Max Cake
-* 10252-Common Permutation
+* [10252-Common Permutation](src/10200-10299/10252-Common%20Permutation.cpp)
 * 10253-Series-Parallel Networks
 * 10254-The Priest Mathematician
 * 10255-The knight's Tour
@@ -3081,7 +3081,7 @@
 * 11329-Curious Fleas
 * 11330-Andy's Shoes
 * 11331-The Joys of Farming
-* 11332-Summing Digits
+* [11332-Summing Digits](src/11300-11399/11332-Summing%20Digits.cpp)
 * 11333-Alphametics
 * 11334-Antenna in the Cinoc Mountains
 * 11335-Discrete Pursuit
