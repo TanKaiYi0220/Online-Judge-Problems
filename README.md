@@ -1792,7 +1792,7 @@
 * 10053-Envelopes
 * 10054-The Necklace
 * [10055-Hashmat the Brave Warrior](src/10000-10099/10055-Hashmat%20the%20Brave%20Warrior.cpp)
-* 10056-What is the Probability ?
+* [10056-What is the Probability](src/10000-10099/10056-What%20is%20the%20Probability.cpp)
 * 10057-A mid-summer night's dream.
 * 10058-Jimmi's Riddles
 * 10059-The Hazard of CSE Department!
