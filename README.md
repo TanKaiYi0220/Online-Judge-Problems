@@ -229,7 +229,7 @@
 * 269-Counting Patterns
 * 270-Lining Up
 * 271-Simply Syntax
-* 272-TEX Quotes
+* [272-TEX Quotes](src/200-299/272-TEX%20Quotes.cpp)
 * 273-Jack Straws
 * 274-Cat and Mouse
 * 275-Expanding Fractions
