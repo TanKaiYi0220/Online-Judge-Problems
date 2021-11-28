@@ -449,7 +449,7 @@
 * 487-Boggle Blitz
 * 488-Triangle Wave
 * 489-Hangman Judge
-* 490-Rotating Sentences
+* [490-Rotating Sentences](src/400-499/490-Rotating%20Sentences.cpp)
 * 491-Tile Topology
 * 492-Pig-Latin
 * 493-Rational Spiral
