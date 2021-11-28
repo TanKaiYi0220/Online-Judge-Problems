@@ -1907,7 +1907,7 @@
 * 10167-Birthday Cake
 * 10168-Summation of Four Primes
 * 10169-Urn-ball Probabilities!
-* 10170-The Hotel with Infinite Rooms
+* [10170-The Hotel with Infinite Rooms](src/10100-10199/10170-The%20Hotel%20with%20Infinite%20Rooms.cpp)
 * 10171-Meeting Prof. Miguel...
 * 10172-The Lonesome Cargo Distributor
 * 10173-Smallest Bounding Rectangle
