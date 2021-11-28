@@ -3775,7 +3775,7 @@
 * 12016-Herbicide
 * 12017-Imitation
 * 12018-Juice Extractor
-* 12019-Doom's Day Algorithm
+* [12019-Doom's Day Algorithm](src/12000-12099/12019-Doom's%20Day%20Algorithm.cpp)
 * 12020-The Election Day
 * 12021-Universal Elections
 * 12022-Ordering T-shirts
