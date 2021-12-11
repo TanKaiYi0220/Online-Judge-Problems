@@ -2556,7 +2556,7 @@
 * 10809-Great Circle
 * 10810-Ultra-QuickSort
 * 10811-Up the Ante
-* 10812-Beat the Spread!
+* [10812-Beat the Spread!](src/10800-10899/10812-Beat%20the%20Spread!.cpp)
 * 10813-Traditional BINGO
 * 10814-Simplifying Fractions
 * 10815-Andy's First Dictionary
