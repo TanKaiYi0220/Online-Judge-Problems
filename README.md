@@ -2526,7 +2526,7 @@
 * 10780-Again Prime? No Time.
 * 10781-Global Positioning System
 * 10782-Send More Money
-* 10783-Odd Sum
+* [10783-Odd Sum](src/10700-10799/10783-Odd%20Sum.cpp)
 * 10784-Diagonal
 * 10785-The Mad Numerologist
 * 10786-Qualify for the Champions League
