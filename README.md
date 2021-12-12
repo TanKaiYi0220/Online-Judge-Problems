@@ -3098,7 +3098,7 @@
 * 11346-Probability
 * 11347-Multifactorials
 * 11348-Exhibition
-* 11349-Symmetric Matrix
+* [11349-Symmetric Matrix](src/11300-11399/11349-Symmetric%20Matrix.cpp)
 * 11350-Stern-Brocot Tree
 * 11351-Last Man Standing
 * 11352-Crazy King
