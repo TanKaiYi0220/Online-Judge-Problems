@@ -2676,7 +2676,7 @@
 * 10928-My Dear Neighbours
 * [10929-You can say 11](src/10900-10999/10929-You%20can%20say%2011.cpp)
 * 10930-A-Sequence
-* 10931-Parity
+* [10931-Parity](src/10900-10999/10931-Parity.py)
 * 10932-Calculator
 * 10933-Volleyball
 * 10934-Dropping water balloons
